@@ -13,5 +13,5 @@ Best quote I can think of
 > It's better late than never.
 
 First column | Second column
-—————-----—- | ————-----————
+------------ | -------------
 Content 1 | Content 2
