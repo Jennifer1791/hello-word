@@ -9,5 +9,5 @@ Currently living in Brazil and working with project management.
 * I want to travel more after the pandemic
 * I really link Pink
 
-Best qoute I can think of
+Best quote I can think of
 > It's better late than never.
